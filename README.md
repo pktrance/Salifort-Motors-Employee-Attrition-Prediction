@@ -54,13 +54,17 @@ Based on the findings, the following initiatives were recommended to HR leadersh
 
 ## Visualizations
 - Correlation Matrix
+
 ![Figure 1](figures/figure_1.png)
 
 - Confusion Matrix (Predictions vs. Test Data)
+
 ![Figure 2](figures/figure_2.png)
 
 - Boxplot 1
+
 ![Figure 3](figures/figure_3.png)
 
 - Boxplot 2
+
 ![Figure 4](figures/figure_4.png)
